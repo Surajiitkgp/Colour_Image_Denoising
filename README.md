@@ -10,7 +10,7 @@ Edges are importance for the visual appearance of images, for this we used zero 
 
 Performance parameter: 
 PSNR and MSE are the error metrics used to compare image after noise removal with the  reference Image.
-MSE stamds for Mean Squared Error. It represents the cumulative squared error between image after noise removal and the  reference Image.
+MSE stands for Mean Squared Error. It represents the cumulative squared error between image after noise removal and the  reference Image.
 The lower the value of MSE, the lower the error.
 
 PSNR stands for Peak Signal to Noise Ratio. This ratio is often used as a quality measurement between the image after noise removal and the  reference Image.
